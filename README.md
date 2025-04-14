@@ -1,2 +1,3 @@
 # JEWELS_ART
 E-Commerce website using MERN
+THIS IS AN ECOMMERCE WEBISTE
